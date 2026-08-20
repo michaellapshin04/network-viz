@@ -1,0 +1,181 @@
+{
+  "nodes": [
+    {
+      "id": "33154590",
+      "description": "Distinct antibody responses to SARS-CoV-2 in children and adults across the COVID-19 clinical spectrum. (Weisberg SP et al. Nature immunology 2021)"
+    },
+    {
+      "id": "33953384",
+      "description": "Delayed production of neutralizing antibodies correlates with fatal COVID-19. (Lucas C et al. Nature medicine 2021)"
+    },
+    {
+      "id": "35027728",
+      "description": "Immunological dysfunction persists for 8 months following initial mild-to-moderate SARS-CoV-2 infection. (Phetsouphanh C et al. Nature immunology 2022)"
+    },
+    {
+      "id": "35633949",
+      "description": "Post COVID-19 Condition in Children and Adolescents: An Emerging Problem. (Izquierdo-Pujol J et al. Frontiers in pediatrics 2022)"
+    },
+    {
+      "id": "35739136",
+      "description": "Long-COVID in children and adolescents: a systematic review and meta-analyses. (Lopez-Leon S et al. Scientific reports 2022)"
+    },
+    {
+      "id": "35933347",
+      "description": "Prevalence of symptoms, comorbidities, fibrin amyloid microclots and platelet pathology in individuals with Long COVID/Post-Acute Sequelae of COVID-19 (PASC). (Pretorius E et al. Cardiovascular diabetology 2022)"
+    },
+    {
+      "id": "36931142",
+      "description": "Prevalence and risk factor for long COVID in children and adolescents: A meta-analysis and systematic review. (Zheng YB et al. Journal of infection and public health 2023)"
+    },
+    {
+      "id": "36997530",
+      "description": "Post-acute sequelae of COVID-19 is characterized by diminished peripheral CD8(+)\u03b27 integrin(+) T cells and anti-SARS-CoV-2 IgA response. (Santa Cruz A et al. Nature communications 2023)"
+    },
+    {
+      "id": "37073325",
+      "description": "Risk factors for post-COVID-19 condition (Long Covid) in children: a prospective cohort study. (Morello R et al. EClinicalMedicine 2023)"
+    },
+    {
+      "id": "37646038",
+      "description": "Pathophysiology and clinical management of coronavirus disease (COVID-19): a mini-review. (Zhu Y et al. Frontiers in immunology 2023)"
+    },
+    {
+      "id": "38632311",
+      "description": "Improvement of immune dysregulation in individuals with long COVID at 24-months following SARS-CoV-2 infection. (Phetsouphanh C et al. Nature communications 2024)"
+    },
+    {
+      "id": "38816608",
+      "description": "Three-year outcomes of post-acute sequelae of COVID-19. (Cai M et al. Nature medicine 2024)"
+    },
+    {
+      "id": "39196964",
+      "description": "Characterizing Long COVID in Children and Adolescents. (Gross RS et al. JAMA 2024)"
+    },
+    {
+      "id": "39198643",
+      "description": "Fibrin drives thromboinflammation and neuropathology in COVID-19. (Ryu JK et al. Nature 2024)"
+    },
+    {
+      "id": "39296584",
+      "description": "Characteristics and predictors of Long Covid in children: a 3-year prospective cohort study. (Camporesi A et al. EClinicalMedicine 2024)"
+    },
+    {
+      "id": "39326415",
+      "description": "Mechanisms of long COVID and the path toward therapeutics. (Peluso MJ et al. Cell 2024)"
+    },
+    {
+      "id": "39633013",
+      "description": "A 24-month National Cohort Study examining long-term effects of COVID-19 in children and young people. (Stephenson T et al. Communications medicine 2024)"
+    },
+    {
+      "id": "39899316",
+      "description": "Long COVID Prevalence and Associated Activity Limitation in US Children. (Ford ND et al. JAMA pediatrics 2025)"
+    },
+    {
+      "id": "40040820",
+      "description": "Differences in Long COVID severity by duration of illness, symptom evolution, and vaccination: a longitudinal cohort study from the INSPIRE group. (Gottlieb M et al. Lancet regional health. Americas 2025)"
+    },
+    {
+      "id": "42070008",
+      "description": "Pediatric SARS-CoV-2 outcomes study (PECOS): 12-month longitudinal analysis of post-COVID symptoms in infected versus uninfected participants. (Montealegre Sanchez GA et al. Pediatric research 2026)"
+    }
+  ],
+  "links": [
+    {
+      "source": "42070008",
+      "target": "40040820",
+      "relation": "reference"
+    },
+    {
+      "source": "42070008",
+      "target": "39899316",
+      "relation": "reference"
+    },
+    {
+      "source": "42070008",
+      "target": "39633013",
+      "relation": "reference"
+    },
+    {
+      "source": "42070008",
+      "target": "39326415",
+      "relation": "reference"
+    },
+    {
+      "source": "42070008",
+      "target": "39296584",
+      "relation": "reference"
+    },
+    {
+      "source": "42070008",
+      "target": "39198643",
+      "relation": "reference"
+    },
+    {
+      "source": "42070008",
+      "target": "39196964",
+      "relation": "reference"
+    },
+    {
+      "source": "42070008",
+      "target": "38816608",
+      "relation": "reference"
+    },
+    {
+      "source": "42070008",
+      "target": "38632311",
+      "relation": "reference"
+    },
+    {
+      "source": "42070008",
+      "target": "37646038",
+      "relation": "reference"
+    },
+    {
+      "source": "42070008",
+      "target": "37073325",
+      "relation": "reference"
+    },
+    {
+      "source": "42070008",
+      "target": "36997530",
+      "relation": "reference"
+    },
+    {
+      "source": "42070008",
+      "target": "36931142",
+      "relation": "reference"
+    },
+    {
+      "source": "42070008",
+      "target": "35933347",
+      "relation": "reference"
+    },
+    {
+      "source": "42070008",
+      "target": "35739136",
+      "relation": "reference"
+    },
+    {
+      "source": "42070008",
+      "target": "35633949",
+      "relation": "reference"
+    },
+    {
+      "source": "42070008",
+      "target": "35027728",
+      "relation": "reference"
+    },
+    {
+      "source": "42070008",
+      "target": "33953384",
+      "relation": "reference"
+    },
+    {
+      "source": "42070008",
+      "target": "33154590",
+      "relation": "reference"
+    }
+  ]
+}
